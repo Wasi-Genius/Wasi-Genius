@@ -2,7 +2,7 @@
 
 ## On a journey of continuous learning and self-improvement 🌅!
 
-### 🕒: Im currently working on an image viewer GUI made in Python using the CustomTkinter library. 
+### 🕒: I've finished my image viewer gui and now I will participate in CodePath's intro web developer course while entering my freshman year of NYU. Wish me luck!  
 ### 📃: Im applying to internships and working on LeetCode to prepare myself for the technical interview.
 ### 🗣️: My pronouns her He/Him
 ### 📫: My contact info...  
