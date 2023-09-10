@@ -1,4 +1,4 @@
-## Hi there Im Wasi Genius. Im an incoming computer science student at New York University, Tandon School of Engineering 🗽. I love working with Python 🐍 and creating programs 💾 in my free time. I also love reading 📖 and keeping myself physically fit 🏃🏾! 
+## Hi there Im Wasi Genius. Im a freshman computer science student at New York University, Tandon School of Engineering 🗽. I love working with Python 🐍 and creating programs 💾 in my free time. I also love reading 📖 and keeping myself physically fit 🏃🏾! 
 
 ## On a journey of continuous learning and self-improvement 🌅!
 
