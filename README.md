@@ -1,4 +1,4 @@
-## Hi there Im Wasi Genius. Im a freshman computer science student at New York University, Tandon School of Engineering 🗽. 
+## Hi there Im Wasi Genius. I am a computer science student at New York University, Tandon School of Engineering 🗽. 
 
 ## On a journey of continuous learning and self-improvement 🌅!
 
