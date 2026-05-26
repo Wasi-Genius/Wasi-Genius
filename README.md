@@ -19,8 +19,6 @@ Alongside development, I work as an IT Service Desk Student Analyst at New York 
 - Infrastructure automation
 - Scalable application design
 
----
-
 ## 💻 Tech Stack
 
 **Languages:**  
