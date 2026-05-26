@@ -33,8 +33,6 @@ Node.js, Express, MongoDB
 **Tools & Technologies:**  
 Git, GitHub, Docker, ESLint, CI/CD (learning)
 
----
-
 ## 📚 Currently Learning
 
 - Docker & containerization
@@ -42,14 +40,12 @@ Git, GitHub, Docker, ESLint, CI/CD (learning)
 - Cloud deployment
 - Infrastructure & DevOps workflows
 
----
 
 ## 📫 Contact Me
 
 - Email: wasig2275@nyu.edu
 - LinkedIn: www.linkedin.com/in/wasi-genius
 
----
 
 ## 🗣️ Pronouns
 
